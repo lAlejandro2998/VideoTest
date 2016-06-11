@@ -7,7 +7,7 @@ int aleatorio()
 {
 	int resp2;
 	randomize();
-	resp2 = random(1000)
+	resp2 = random(1000);//ise esto para ver q numero imprimia y solo comprovar si deverda funcionava el randon
 	cout << "valor es " << resp2;
 }
 
